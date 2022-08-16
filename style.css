@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    text-align: center;
+
+}
+
+img {
+    width: 100%;
+    height: 350px;
+}
+
+h1{
+    background-color: brown;
+}
+
+h2{
+    background-color: brown; 
+    padding: 20px;
+}
+
+p { 
+    margin: 10%;
+    text-align: center;
+    font-size: 40px;
+    border: 4px solid green;
+    color: #FF0000;
+}
+p b {
+    color: #FFFFFF;
+}
+p u {
+    color: #555555;
+}
+p i {
+    color: #FF0000;
+}
